@@ -1,1 +1,3 @@
-# nsw_public_schools
+# NSW Public Schools Filtering
+
+Sample file processing using JavaScript.
