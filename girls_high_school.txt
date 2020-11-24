@@ -1,0 +1,48 @@
+Hornsby Girls High School | 2077
+North Sydney Girls High School | 2065
+St George Girls High School | 2217
+Sydney Girls High School | 2010
+Burwood Girls High School | 2132
+Willoughby Girls High School | 2068
+Strathfield Girls High School | 2135
+Liverpool Girls High School | 2170
+East Hills Girls Technology High School | 2213
+Cheltenham Girls High School | 2119
+Randwick Girls High School | 2031
+Asquith Girls High School | 2077
+Blacktown Girls High School | 2148
+Moorefield Girls High School | 2217
+Riverside Girls High School | 2111
+Auburn Girls High School | 2144
+Bankstown Girls High School | 2200
+Beverly Hills Girls High School | 2209
+Canterbury Girls High School | 2193
+Macarthur Girls High School | 2150
+Northern Beaches Secondary College Mackellar Girls Campus | 2093
+Birrong Girls High School | 2143
+Georges River College Penshurst Girls Campus | 2222
+Wiley Park Girls High School | 2196
+Hornsby Girls High School | 2077
+North Sydney Girls High School | 2065
+St George Girls High School | 2217
+Sydney Girls High School | 2010
+Burwood Girls High School | 2132
+Willoughby Girls High School | 2068
+Strathfield Girls High School | 2135
+Liverpool Girls High School | 2170
+East Hills Girls Technology High School | 2213
+Cheltenham Girls High School | 2119
+Randwick Girls High School | 2031
+Asquith Girls High School | 2077
+Blacktown Girls High School | 2148
+Moorefield Girls High School | 2217
+Riverside Girls High School | 2111
+Auburn Girls High School | 2144
+Bankstown Girls High School | 2200
+Beverly Hills Girls High School | 2209
+Canterbury Girls High School | 2193
+Northern Beaches Secondary College Mackellar Girls Campus | 2093
+Macarthur Girls High School | 2150
+Birrong Girls High School | 2143
+Georges River College Penshurst Girls Campus | 2222
+Wiley Park Girls High School | 2196
